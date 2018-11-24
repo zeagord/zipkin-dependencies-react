@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "cytoscape": "^3.2.20",
+    "cytoscape-cose-bilkent": "^4.0.0",
     "react": "^16.6.3",
+    "react-cytoscapejs": "^1.1.0",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
   },
@@ -21,5 +24,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.2"
+  }
 }
