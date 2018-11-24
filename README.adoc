@@ -1,5 +1,5 @@
-##(Experimental) Zipkin Dependencies using Cytoscape and Plotly
+## (Experimental) Zipkin Dependencies using Cytoscape and Plotly
 
-###Reference: 
+### Reference: 
 http://js.cytoscape.org/#demos
 https://github.com/plotly/react-cytoscapejs
